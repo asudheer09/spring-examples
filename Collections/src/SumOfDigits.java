@@ -6,6 +6,8 @@ public class SumOfDigits {
 
 	/**
 	 * @param args
+	 * 
+	 * First merge branch
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
