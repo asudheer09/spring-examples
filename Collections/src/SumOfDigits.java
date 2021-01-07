@@ -7,7 +7,7 @@ public class SumOfDigits {
 	/**
 	 * @param args
 	 * 
-	 * First merge branch
+	 * Second merge branch from dev1
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
